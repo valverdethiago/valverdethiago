@@ -1,4 +1,4 @@
-# Hi, I'm Thiago Valverde 👋
+# Hi, I'm Thiago Valverde de Souza👋
 
 ### Senior Software Engineer & Software Architect
 
